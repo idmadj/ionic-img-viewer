@@ -11,6 +11,7 @@ Thumbs.db
 # Ignored files & folders
 *.ts
 !*.d.ts
+tsconfig.*
 /src
 demo
 config
