@@ -42,7 +42,7 @@ import { ImageViewerEnter, ImageViewerLeave } from './image-viewer-transitions';
 
 		<div class="image-wrapper">
 			<div class="image" #imageContainer>
-				<img [src]="imageUrl" tappable #image />
+				<img [src]="imageUrl" tappable #image draggable="false" />
 			</div>
 		</div>
 	`,

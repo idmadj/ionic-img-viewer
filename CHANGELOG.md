@@ -1,3 +1,8 @@
+# 2.9.3
+
+ - fix: native html img dragging interferes with drag to close on desktop
+ - fix: removed padding-top on back button
+
 # 2.9.0
 
 Support for Ionic 3.9.x

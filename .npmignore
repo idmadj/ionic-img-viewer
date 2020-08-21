@@ -14,3 +14,7 @@ Thumbs.db
 /src
 demo
 config
+.github
+.tmp
+CONTRIBUTING.md
+ngc-build.js
